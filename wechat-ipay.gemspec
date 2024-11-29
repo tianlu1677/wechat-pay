@@ -5,7 +5,7 @@ $LOAD_PATH.push File.expand_path('lib', __dir__)
 require 'wechat-pay/version'
 
 Gem::Specification.new do |s|
-  s.name        = 'wechat-pay'
+  s.name        = 'wechat-ipay'
   s.version     = WechatPay::VERSION
   s.summary     = 'Wechat Pay in api V3'
   s.description = 'A simple Wechat pay ruby gem in api V3.'
