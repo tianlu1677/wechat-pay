@@ -23,7 +23,7 @@ For more Information，you can check my posts: https://www.lanzhiheng.com/posts/
 Add this line to your Gemfile:
 
 ```
-gem 'wechat-ipay'
+gem 'wechat-ipay', '~> 2.0.0'
 ```
 
 or development version
